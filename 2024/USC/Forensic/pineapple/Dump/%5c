@@ -1,0 +1,6 @@
+<form action="/" method="post">
+	<input type="text" name="username">Username</input>
+	<input type="text" name="filename">Filename</input>
+	<input type="text" name="filepw">File encryption key</input>
+	<input type="submit" value="Submit"></input>
+</form>
