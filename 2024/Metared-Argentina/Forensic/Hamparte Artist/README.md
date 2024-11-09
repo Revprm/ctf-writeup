@@ -115,6 +115,10 @@ Output:
 
 ![Result](image-1.png)
 
+Flipped Version:
+
+![flipped](image-2.png)
+
 ---
 
 flag: `flag{WHO_IS_CR7}`
