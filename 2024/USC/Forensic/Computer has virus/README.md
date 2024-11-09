@@ -1,5 +1,7 @@
 # Computer Has Virus
 
+---
+
 ```
 Computer Has Virus
 
@@ -9,6 +11,9 @@ Help! I just fell victim to a phishing attack! I have attached the email they se
 
 author: RJCyber
 ```
+---
+
+## Solution
 
 We know that if we open the `URGENT.eml` file, we can find that there is an attachment named `antivirus.exe`.
 
@@ -39,5 +44,7 @@ There are compressed variables that are in base64 format:
 let's try again on CyberChef and see what we can find.
 
 ![flag](image.png)
+
+---
 
 flag: `CYBORG{S3cur1ty_thr0ugh_Obscur1ty_1s_n0t_v3ry_s3cur3!}`

@@ -1,5 +1,7 @@
 # think_twice
 
+---
+
 ```
 think_twice
 
@@ -11,10 +13,13 @@ Note: the flag format for this challenge is Cyb0rg{}, with a zero as the 0
 ㅤ
 author: nguyen-huong
 ```
+---
+
+## Solution
+
 Image:
 ![image](metadata.png)
 
-Solution:
 Based on the title of the image file, we can try to check the image metadata by using `exiftool`
 
 
@@ -117,5 +122,7 @@ Megapixels                      : 1.2
 Found something interesting in the `Software` value which is `UTNsaU1ISm5lMDFqUTJGeWRHaDVmU0E9`. We can try to decrypt it using CyberChef
 
 ![decrypt](image.png)
+
+---
 
 Flag: `Cyb0rg{McCarthy}`

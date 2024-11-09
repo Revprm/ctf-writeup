@@ -1,4 +1,5 @@
 # beer sales
+---
 
 ```
 beer sales
@@ -19,7 +20,8 @@ For example: CYBORG{example.com/dir/report.pdf}
 ㅤ
 author: moonlight
 ```
-
+---
+## Solution
 Because I solved this after the ftp is down, so the flag format will be the url of the pdf
 
 ![beer](image.png)
@@ -30,5 +32,7 @@ Because the link is URL Encoded format, we need to decode it first
 
 the link is: 
 `www.flgov.com/pub/llweb/Beer4.pdf`
+
+---
 
 flag: `CYBORG{www.flgov.com/pub/llweb/Beer4.pdf}`

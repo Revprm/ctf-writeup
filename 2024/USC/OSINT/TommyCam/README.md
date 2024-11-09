@@ -1,5 +1,7 @@
 # TommyCam
 
+---
+
 ```
 TommyCam
 
@@ -19,11 +21,16 @@ Note: this challenge is limited to 10 attempts to prevent brute-forcing
 ㅤ
 author: moonlight
 ```
+---
+
+## Solution
 
 We can use [link](web.archive.org) to get the webpage in December 1996
 
 ![alt text](image.png)
 
 The device PC is `Toshiba 5200 80386`
+
+---
 
 flag: `CYBORG{Toshiba 5200 80386}`

@@ -1,5 +1,7 @@
 # pineapple
 
+---
+
 ```
 pineapple
 
@@ -11,6 +13,10 @@ The flag for this challenge will appear in the CYBORG{} flag format.
 ㅤ
 author: neonlian
 ```
+---
+
+## Solution
+
 Based on that description, we can try to figure out what is being sent by using the `stream` function in each protocol.
 
 ![stream-1](image.png)
@@ -30,5 +36,7 @@ After dumping all the files, We found the file we're looking for in the name of 
 Change the file extenstion to `.7z`
 
 Extract the zip with `conjoined_TRIANGLES` as the password, and you got the flag
+
+---
 
 flag: `CYBORG{pe4cefaRe_4x09}`
