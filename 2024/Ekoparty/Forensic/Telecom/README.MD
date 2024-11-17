@@ -1,6 +1,6 @@
 # Telecom [407 pts]
 
-**Category:** Sponsors
+**Category:** Sponsors, Forensics
 
 **Solves:** 57
 
