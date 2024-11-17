@@ -1,21 +1,13 @@
-# PGN Encryption
+# PGN Encryption [293 Pts]
 
----
+**Category:** Misc, Stego
 
-```
-PGN Encryption
-293
-Misc
-country:canada stego
-Flag on chess moves here
+**Solves:** -
 
-Author: puck
-```
----
+## Description
+> Flag on chess moves here
 
 ## Solution
-
-
 
 Decode the chess moves using this code [Chess Encryption](https://github.com/WintrCat/chessencryption)
 
@@ -28,7 +20,6 @@ output_file_path = "output.txt"
 
 Call `decode(pgn_string, output_file_path)`
 
+### Flag
 
----
-
-flag: `flag{Faustino_Oro_Our_Carlsen}`
+`flag{Faustino_Oro_Our_Carlsen}`

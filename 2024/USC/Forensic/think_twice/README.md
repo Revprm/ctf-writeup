@@ -1,19 +1,13 @@
-# think_twice
+# think_twice [300 Pts]
 
----
+**Category:** Forensics
 
-```
-think_twice
+**Solves:** -
 
-300
-
-Think twice before you drive to the EXIT(F)!!!
-ㅤ
-Note: the flag format for this challenge is Cyb0rg{}, with a zero as the 0
-ㅤ
-author: nguyen-huong
-```
----
+## Description
+> Think twice before you drive to the EXIT(F)!!!
+> 
+> Note: the flag format for this challenge is Cyb0rg{}, with a zero as the 0
 
 ## Solution
 
@@ -123,6 +117,6 @@ Found something interesting in the `Software` value which is `UTNsaU1ISm5lMDFqUT
 
 ![decrypt](image.png)
 
----
+### Flag
 
-Flag: `Cyb0rg{McCarthy}`
+`Cyb0rg{McCarthy}`

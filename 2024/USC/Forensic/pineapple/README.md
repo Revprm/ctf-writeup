@@ -1,19 +1,13 @@
-# pineapple
+# pineapple [300 Pts]
 
----
+**Category:** Forensics
 
-```
-pineapple
+**Solves:** -
 
-300
-
-Our covert pineapples intercepted this traffic from people at the convention. Try find out what was sent.
-
-The flag for this challenge will appear in the CYBORG{} flag format.
-ㅤ
-author: neonlian
-```
----
+## Description
+> Our covert pineapples intercepted this traffic from people at the convention. Try find out what was sent.
+>
+> The flag for this challenge will appear in the CYBORG{} flag format.
 
 ## Solution
 
@@ -37,6 +31,6 @@ Change the file extenstion to `.7z`
 
 Extract the zip with `conjoined_TRIANGLES` as the password, and you got the flag
 
----
+### Flag
 
-flag: `CYBORG{pe4cefaRe_4x09}`
+`CYBORG{pe4cefaRe_4x09}`

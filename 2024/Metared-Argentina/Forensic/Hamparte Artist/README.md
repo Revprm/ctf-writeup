@@ -1,16 +1,12 @@
-# Hamparte Artist
+# Hamparte Artist [464 Pts]
 
----
+**Category:** Forensics, stego
 
-```
-Hamparte Artist
-464
-Forensics
-country:rusia stego
-Link: https://drive.google.com/file/d/1o7lGYM7MCpRpTWx7fhQM9yjSZurvuT_l/view?usp=sharing
+**Solves:** -
 
-Author: puck
-```
+## Description
+> Link: https://drive.google.com/file/d/1o7lGYM7MCpRpTWx7fhQM9yjSZurvuT_l/view?usp=sharing
+
 ## Solution
 Let's see what os is used for this memory dump using volatility3
 
@@ -118,6 +114,6 @@ Flipped Version:
 
 ![flipped](image-2.png)
 
----
+### Flag
 
-flag: `flag{WHO_IS_CR7}`
+`flag{WHO_IS_CR7}`

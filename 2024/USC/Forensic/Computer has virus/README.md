@@ -1,17 +1,11 @@
-# Computer Has Virus
+# Computer Has Virus [300 Pts]
 
----
+**Category:** Forensics
 
-```
-Computer Has Virus
+**Solves:** -
 
-300
-
-Help! I just fell victim to a phishing attack! I have attached the email they sent me. See if you can recover their secrets!
-
-author: RJCyber
-```
----
+## Description
+> Help! I just fell victim to a phishing attack! I have attached the email they sent me. See if you can recover their secrets!
 
 ## Solution
 
@@ -45,6 +39,6 @@ let's try again on CyberChef and see what we can find.
 
 ![flag](image.png)
 
----
+### Flag
 
-flag: `CYBORG{S3cur1ty_thr0ugh_Obscur1ty_1s_n0t_v3ry_s3cur3!}`
+`CYBORG{S3cur1ty_thr0ugh_Obscur1ty_1s_n0t_v3ry_s3cur3!}`

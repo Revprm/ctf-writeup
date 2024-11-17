@@ -1,21 +1,17 @@
-# Designer
+# Designer [100 Pts]
 
----
+**Category:** Beginner, Web
 
-```
-Designer
-100
-Beginner
-country:malasia Web
-https://designer.ctf.cert.unlp.edu.ar
+**Solves:** -
 
-Author: apaturlanne
-```
----
+## Description
+> https://designer.ctf.cert.unlp.edu.ar
+
+
 ## Solution
 
 ![Sol](image.png)
 
----
+### Flag
 
-flag: `flag{css_hidden_treasure}` 
+`flag{css_hidden_treasure}` 

@@ -1,18 +1,16 @@
-# Onion Login
+# Onion Login [100 Pts]
 
----
-```
-Onion login
-100
-Beginner
-country:israel Web
-Login(s) to get the flag.
-https://onion-login.ctf.cert.unlp.edu.ar
+**Category:** Beginner, Web
 
-Author: ucabrera
-```
----
+**Solves:** -
+
+## Description
+> Login(s) to get the flag.
+>
+> https://onion-login.ctf.cert.unlp.edu.ar
+
 ## Solution
+
 First:
 
 username: `admin`
@@ -37,5 +35,6 @@ Username: `admin`
 
 password: `Charizard`
 
----
-flag: `flag{0n1On_loGin_Down!}`
+### Flag
+
+`flag{0n1On_loGin_Down!}`

@@ -1,16 +1,14 @@
-# T.E.G. 1: Hide and Seek
+# T.E.G. 1: Hide and Seek [100 Pts]
 
----
-```
-T.E.G. 1: Hide and Seek
-100
-Beginner
-country:kamchatka stego
-T.E.G. level 1
-Everything is right in front of you, but you need the right words to see it. Will you be able to decipher the message?
+**Category:** Beginner, stego
 
-Author: maechaniz
-```
+**Solves:** -
+
+## Description
+> T.E.G. level 1
+> 
+> Everything is right in front of you, but you need the right words to see it. Will you be able to decipher the message?
+
 ## Solution
 
 ---
@@ -29,6 +27,6 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 [i] Original filename: "flagTeg.txt".
 [i] Extracting to "lipgloss.jpg.out".
 ```
----
+### Flag
 
-flag: `flag{5t3g0_1s_fun_wh3n_y0u_f1nd_1t}`
+`flag{5t3g0_1s_fun_wh3n_y0u_f1nd_1t}`
