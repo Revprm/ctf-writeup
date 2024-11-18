@@ -43,8 +43,6 @@ There are two images in the `familia` folder, one is just agustin and one is wit
 
 After we extract it, we get another `png` file. let's try to find something using `zsteg`. 
 
-Translated with DeepL.com (free version)
-
 ```
 imagedata           .. file: AIX core file
 b1,r,lsb,xy         .. text: "3Z|FX>U?,<vp2"
