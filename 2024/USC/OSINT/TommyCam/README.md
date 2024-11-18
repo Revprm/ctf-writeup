@@ -15,7 +15,7 @@
 
 ## Solution
 
-We can use [link](web.archive.org) to get the webpage in December 1996
+We can use [web.archive.org](https://web.archive.org) to get the webpage in December 1996
 
 ![alt text](image.png)
 
