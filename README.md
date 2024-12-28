@@ -10,3 +10,4 @@ Repository for all of my CTF Writeups. Playing as Rev or Revvv
 | Ekoparty           |HCS       |54    |[Link](2024/Ekoparty)                                |
 | Cybergon           |HCS       |3     |[Link](2024/CybergonCTF)                             |
 | World Wide         |HCS       |8     |[Link](2024/WWCTF)                                   |
+| Wargames.my         |HCS       |4     |[Link](#)                                   |
