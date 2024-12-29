@@ -1,55 +1,60 @@
 # Wargamesmy CTF 2024
 
-I participated as Revvv with HCS in this CTF Event and Achieved Rank 4
+I participated as **Revvv** with **HCS** in this CTF event and achieved **Rank 4**.
 
-|      Name       | Category | Solved? |
-|:---------------:|:--------:|:-------:|
-| Christmast GIFt |   Misc   |   ✅    |
-|  Invisible Ink  |   Misc   |   ✅    |
+|       Name       | Category | Solved? |
+|:----------------:|:--------:|:-------:|
+| **Christmast GIFt** |   Misc   |   ✅    |
+| **Invisible Ink**  |   Misc   |   ✅    |
 
-# Misc
+## Miscellaneous Challenges
 
-## Christmast GIFt [94 Pts]
+### Christmast GIFt [94 Points]
 
-> Here is your christmas GIFt from santa! Just open and wait for it..
-> 
-> Author: SKR
+> "Here is your Christmas GIFt from Santa! Just open and wait for it."
+>
+> **Author:** SKR
 
-### Solution:
+#### Solution
 
-Simply we can just open the `gif` file using GIMP and find the frame where the gift is opened and shows the flag
+To solve this challenge, simply open the provided GIF file using **GIMP**. Locate the frame where the "gift" opens to reveal the flag.
 
 ![image](https://hackmd.io/_uploads/rkwxRfRSyx.png)
 
-### Flag
+#### Flag
 
 `wgmy{1eaa6da7b7f5df6f7c0381c8f23af4d3}`
 
-## Invisible Ink [388 Pts]
+---
 
-> The flag is hidden somewhere in this GIF. You can't see it? Must be written in transparent ink.
-> 
-> Author: Yes
+### Invisible Ink [388 Points]
 
-### Solution
+> "The flag is hidden somewhere in this GIF. Can’t see it? It must be written in transparent ink."
+>
+> **Author:** Yes
 
-Same as the previous challenge, we open the `gif` file using GIMP and analyze it.
+#### Solution
 
-Noticed that there are two frames that are appeared transparent and both of them are not on the (0, 0) X and Y
+Similar to the previous challenge, open the GIF file using **GIMP** and analyze it.
 
-Let's change it and to (0, 0) and make the only visible frame is only that two frames
+In this case, I noticed two frames appeared transparent, and neither of them was located at the default (0, 0) coordinates for X and Y. To investigate further:
+
+1. Move these transparent frames to the (0, 0) position.
+2. Make only these two frames visible.
 
 ![image](https://hackmd.io/_uploads/B1RgxX0r1x.png)
 
-Now we have a some sort of noise like in a Television, let's try to make the color equal.
+After making this adjustment, the frames resembled a static noise pattern, similar to a TV signal. By equalizing the colors, the output revealed a white screen.
 
 ![image](https://hackmd.io/_uploads/Hky_gmAB1g.png)
 
-Now it's only showing white but noticed when you equalized one frame at first, it shows some kind of text. let's try to make it transparent.
+Upon closer inspection, equalizing just one frame initially showed faint text. To make the text more readable, I adjusted the transparency settings.
 
 ![image](https://hackmd.io/_uploads/HkEWW7CByx.png)
 
-And we got the flag
+This revealed the flag hidden within the GIF.
 
-### Flag
+#### Flag
+
 `wgmy{d41d8cd98f00b204e9800998ecf8427e}`
+
