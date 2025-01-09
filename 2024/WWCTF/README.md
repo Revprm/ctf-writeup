@@ -87,7 +87,7 @@ When I connect to the netcat connection, it says that we need to win 3 games of 
 
 ### Solution
 
-From the Website, we need to guess 100 flags that appeared. But somethig interesting when I solve a couple of them, the answer is not entirely correct, for example the flag France will be incorrect if we submit France as the answer.
+From the Website, we need to guess 100 flags that appeared. But something interesting when I solve a couple of them, the answer is not entirely correct, for example the flag France will be incorrect if we submit France as the answer.
 
 > Note: We can refresh the page and our progress will still be there but the flag changes
 
