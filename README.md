@@ -11,3 +11,4 @@ Repository for all of my CTF Writeups. Playing as Rev or Revvv
 | Cybergon           |HCS       |3     |[Link](2024/CybergonCTF)                             |
 | World Wide         |HCS       |8     |[Link](2024/WWCTF)                                   |
 | Wargames.my        |HCS       |4     |[Link](2024/Wargamesmy)                              |
+| lactf              |HCS       |-     |[Link](2025/lactf)                                   |
