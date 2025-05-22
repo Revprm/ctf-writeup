@@ -17,5 +17,5 @@ Repository for all of my CTF Writeups. Playing as Rev or Revvv
 | Event              | Team     | Rank | Link                                                                                                   |
 |--------------------|----------|------|--------------------------------------------------------------------------------------------------------|
 | lactf              |HCS       |-     |[Link](2025/lactf)                                                                                      |
-| AceCTF             |HCS       |2     |[Link]([2025/lactf](https://revprm.gitbook.io/revvv/ctf/2025/acectf))                                   |
-| Nowruz 1404        |HCS       |2     |[Link]([2025/lactf](https://revprm.gitbook.io/revvv/ctf/2025/nowruz-1404))                              |
+| AceCTF             |HCS       |2     |[Link](https://revprm.gitbook.io/revvv/ctf/2025/acectf)                                                 |
+| Nowruz 1404        |HCS       |2     |[Link](https://revprm.gitbook.io/revvv/ctf/2025/nowruz-1404)                                            |
