@@ -22,3 +22,4 @@ Repository for all of my CTF Writeups. Playing as Rev or Revvv
 | AceCTF           | HCS  | 2    | [Link](https://revprm.gitbook.io/revvv/ctf/2025/acectf)           |
 | Nowruz 1404      | HCS  | 2    | [Link](https://revprm.gitbook.io/revvv/ctf/2025/nowruz-1404)      |
 | Break The Syntax | HCS  | -    | [Link](https://revprm.gitbook.io/revvv/ctf/2025/break-the-syntax) |
+| BDSEC            | HCS  | 3    | [Link](https://revprm.gitbook.io/revvv/ctf/2025/bdsec)            |
