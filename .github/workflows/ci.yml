@@ -3,8 +3,9 @@ name: Update README with new writeups
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -44,7 +45,5 @@ jobs:
     
     - name: Push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+      run: |
+        git push
